@@ -17,7 +17,7 @@ Miren esa pequeña barra naranja del 16.5% – esos son nuestros futuros program
 Pensemos en todas las *Marie Curie digitales* que estamos perdiendo.  
 Las barras azules y rojas no mienten: tenemos un problema estructural."*
 
-[Brecha de género](../images/graficos_storytelling/grafico_2_brecha_genero.png)
+![Brecha de género](../images/graficos_storytelling/grafico_2_brecha_genero.png)
 
 ---
 
@@ -26,11 +26,11 @@ Las barras azules y rojas no mienten: tenemos un problema estructural."*
 La diferencia entre barras nos dice que el **código postal** puede determinar el futuro digital de un estudiante.  
 ¿Es esto justo?"*
 
-[Público vs Privado](../images/graficos_storytelling/grafico_3_publico_privado.png)
+![Público vs Privado](../images/graficos_storytelling/grafico_3_publico_privado.png)
 
-[Público vs Privado](../images/graficos_storytelling/grafico_3a_publico_privado_ccaa.png)
+![Público vs Privado](../images/graficos_storytelling/grafico_3a_publico_privado_ccaa.png)
 
-[Público vs Privado](../images/graficos_storytelling/grafico_3b_publico_privado_ccaa.png)
+![Público vs Privado](../images/graficos_storytelling/grafico_3b_publico_privado_ccaa.png)
 
 ---
 
@@ -39,7 +39,7 @@ La diferencia entre barras nos dice que el **código postal** puede determinar e
 Los colores oscuros = competencia digital alta, los claros… ahí tenemos trabajo por hacer.  
 España no es uniforme digitalmente."*
 
-[Brecha territorial](../images/graficos_storytelling/grafico_4_territorial.png)
+![Brecha territorial](../images/graficos_storytelling/grafico_4_territorial.png)
 
 ---
 
@@ -47,7 +47,7 @@ España no es uniforme digitalmente."*
 *"Nada como un podio para visualizar contrastes.  
 Algunas CCAA lideran, otras se quedan muy atrás."*
 
-[Top/Bottom 3](../images/graficos_storytelling/grafico_5_ranking.png)
+![Top/Bottom 3](../images/graficos_storytelling/grafico_5_ranking.png)
 
 ---
 
@@ -57,7 +57,7 @@ Cada punto es una comunidad, cada posición cuenta una historia.
 El Cluster 1 son nuestros campeones digitales.  
 El Cluster 0… necesita ayuda urgente."*
 
-[Clusters](../images/graficos_storytelling/grafico_6_cluster_heatmap.png)
+![Clusters](../images/graficos_storytelling/grafico_6_cluster_heatmap.png)
 
 ---
 
