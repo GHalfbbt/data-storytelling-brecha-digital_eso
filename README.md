@@ -18,12 +18,8 @@ Utilizando datos del **INE (Instituto Nacional de Estadística) - Dataset 43698*
 
 ## 👥 **Autores**
 
-- **Aroa Mateo Gómez** - Data Storytelling Framework, Pesentation Design & Python Developer
-
-(https://github.com/Arowi95)  
-- **Alfonso Bermúdez Torres** - Data Storyteller, Pesentation Design & Python Developer
-
-(https://github.com/GHalfbbt)
+- **Aroa Mateo Gómez** - Data Storytelling Framework, Pesentation Design & Python Developer  (https://github.com/Arowi95)  
+- **Alfonso Bermúdez Torres** - Data Storyteller, Pesentation Design & Python Developer  (https://github.com/GHalfbbt)
 
 
 ---
