@@ -110,7 +110,6 @@ jupyter notebook notebooks/analisis_brecha_digital_storytelling_eso.ipynb
 ### 📖 **Informes Ejecutivos:**
 - 🤖 **[Informe Técnico Automatizado](reports/informe_tecnico_automatizado.md)** - Análisis estadístico puro
 - 🎯 **[Informe Técnico Storytelling](reports/informe_tecnico_storytelling.md)** - Historia que impacta y genera acción
-- 🎯 **[Informe Técnico Storytelling Graph](reports/informe_tecnico_storytelling_graph.md)** - Storytellin y con alguna imagen
 ### 📝 **Artículos y Recursos:**
 - 📰 **[Artículo en Medium](https://medium.com/@aroamateogomez1995/storytelling-con-datos-a80a43fdcde2)** - Storytelling con Datos
 - 🎯 **[Presentación PDF](presentation/presentación_storytelling_con_datos.pdf)** - Slides de la formación
