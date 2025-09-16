@@ -50,7 +50,7 @@ Utilizando datos del **INE (Instituto Nacional de Estadística) - Dataset 43698*
 
 ### ⚡ **OPCIÓN 1: Google Colab** (Recomendado - Sin instalación)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[tu-usuario]/data-storytelling-brecha-digital_eso/blob/main/notebooks/analisis_brecha_digital_storytelling_eso.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GHalfbbt/data-storytelling-brecha-digital_eso/blob/main/notebooks/analisis_brecha_digital_storytelling_eso.ipynb)
 
 **🌟 Ventajas:**
 - ✅ **Sin instalación** - Ejecuta desde cualquier dispositivo
